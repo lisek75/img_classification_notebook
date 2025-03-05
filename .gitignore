@@ -1,0 +1,15 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Keras model files
+*.keras
+
+# Ignore the follwing folders
+cat_vs_dog/dataset/
+
+# Ignore Files with "submission" in Their Name
+*submission*
+
+
+# Ignore .zip files,
+*.zip
